@@ -1,0 +1,32 @@
+{
+  "country" : "name"
+}
+
+
+{
+  "books" : [
+    "war and piece" : {
+      "title" : "War and Piece",
+      "author" : "Tolstoy"
+    },
+    "Lord of the rings" : {
+      "title" : "Lord of the rings",
+      "author" : "Tolkien"
+    },
+    "hotel" : {
+      "title" : "Hotel",
+      "author" : "Hayle"
+    }
+  ]
+}
+
+{
+  "song" : "weed and rum",
+  "musician" : "chase and status"
+}
+
+{
+  "name" : "fred",
+  "age" : 18
+}
+
