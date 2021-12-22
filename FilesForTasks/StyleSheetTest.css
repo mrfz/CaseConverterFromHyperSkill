@@ -1,8 +1,27 @@
 p {
     padding: 10px 20px 25px 30px;
     margin: 5px 10px;
+    position: absolute;
+    top: 0;
+    right: 0;
 }
 img {
+  position: relative;
     max-height: 300vw;
     margin: 10px 5%;
 }
+.header {
+  position: fixed;
+}
+.author {
+  position: sticky;
+  
+}
+
+.card-one, .card-three{
+  float: left;
+}
+
+  .card-two, .card-four {
+   clear: left;
+ }
